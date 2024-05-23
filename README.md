@@ -1,8 +1,7 @@
 # spotify-data-analysis
 A quick notebook for analyzing my Spotify data from 2023 and 2022. 
 
-
-One day, I became curious about my Spotify data and wanted to play around with it. In this script, I look at certain song features (e.g., valence, danceability, liveness) of the songs I listened to in 2023 and 2022. I also tried using a machine learning model to see if I could predict my songs from 2023 using data from 2022 and to see if one song feature could predict another within a year. 
+In this script, I look at certain song features (e.g., valence, danceability, liveness) of the songs I listened to in 2023 and 2022. I also tried using a machine learning model to see if I could predict my songs from 2023 using data from 2022 and to see if one song feature could predict another feature within a year. 
 
 
 ### File Structure
